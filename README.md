@@ -8,7 +8,7 @@
 ## About  Termux :
  **Termux** is an Android terminal emulator and Linux environment app that brings powerful command-line functionality to mobile devices. It allows users to access a wide array of Linux tools and utilities, enabling tasks like programming, development, penetration testing, and system administration directly from an Android device. Termux provides a convenient way for enthusiasts, developers, and tech-savvy individuals to run Linux-based commands, install packages, and explore the capabilities of a command-line interface on their smartphones or tablets.
 
-# Install on Termux :
+# Install Termux :
  Search on Crome F-Droid 
  Download It And Search the app Termux And Download 
  
